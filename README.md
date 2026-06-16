@@ -1,31 +1,133 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Agarwal</h1>
-<h3 align="center">An Engineering Student At Bennett University</h3>
+<h3 align="center">Cloud Computing Student | AWS Certified | DevOps & AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-agarwal11&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-agarwal11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-agarwal11" alt="vaibhav-agarwal11" /></a> </p>
-
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **vv3151773@gmail.com**
-
-- ⚡ Fun fact **I'm an awesome photographer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@vaibhavag11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vaibhavag11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaibhav-agarwal-140627302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaibhav-agarwal-140627302" height="30" width="40" /></a>
-<a href="https://instagram.com/itx_vaibhavvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx_vaibhavvv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@vaibhavagarwal819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vaibhavagarwal819" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vv3151773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vv3151773" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhavag11/">LinkedIn</a> •
+  <a href="mailto:VaibhavAgarwal1127@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-agarwal11&show_icons=true&locale=en&layout=compact" alt="vaibhav-agarwal11" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-agarwal11&show_icons=true&locale=en" alt="vaibhav-agarwal11" /></p>
+🎓 B.Tech in Cloud Computing at Bennett University (CGPA: 8.50)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-agarwal11&" alt="vaibhav-agarwal11" /></p>
+☁️ AWS Certified Cloud Practitioner
 
+🤖 AWS Certified AI Practitioner
+
+💼 IT Intern at JK Lakshmi Cement Ltd.
+
+🏆 Management Head – DevOps Club & Indian Blockchain Fraternity
+
+🤝 Placement Coordinator – Batch 89, Bennett University
+
+🌱 Passionate about Cloud Computing, DevOps, AI, Cloud Infrastructure, and Enterprise Applications
+
+---
+
+## 💼 Internship Experience
+
+### JK Lakshmi Cement Ltd. – IT Department Intern
+
+- Worked on enterprise-level software solutions and internal business applications.
+- Developed a Vehicle Requisition Management System to streamline vehicle request and approval workflows.
+- Gained hands-on experience with Microsoft IIS Server configuration and management.
+- Successfully deployed web applications on local servers using IIS.
+- Learned cloud deployment concepts and application hosting strategies.
+- Worked closely with IT teams to understand real-world infrastructure and deployment environments.
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 Vehicle Requisition Management System
+
+- Developed a web-based application for vehicle request and approval management.
+- Automated internal transportation request workflows.
+- Improved tracking, transparency, and operational efficiency.
+- Implemented role-based access and request monitoring features.
+
+### ☁️ E-Learning & Online Examination System
+
+- Built a cloud-based learning and examination platform using AWS services.
+- Used Amazon S3 for secure storage.
+- Managed student records using DynamoDB.
+- Developed backend functionality using AWS Lambda.
+- Integrated APIs using API Gateway.
+- Implemented monitoring and logging with Amazon CloudWatch.
+
+---
+
+## 🛠️ Technical Skills
+
+### Cloud & DevOps
+
+- AWS (S3, Lambda, IAM, VPC, CloudWatch, CloudFront)
+- Microsoft IIS Server
+- Application Deployment
+- Cloud Deployment
+- Linux
+
+### Programming Languages
+
+- Python
+- C++
+- Java
+- HTML
+- CSS
+
+### Tools
+
+- Git & GitHub
+- VS Code
+- Microsoft Excel
+- Microsoft Word
+- PowerPoint
+
+### Core Concepts
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+
+---
+
+## 🏅 Certifications
+
+🏆 AWS Certified Cloud Practitioner
+
+🏆 AWS Certified AI Practitioner
+
+---
+
+## 📊 GitHub Stats
+
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAV-AGARWAL11&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAV-AGARWAL11&layout=compact&theme=github_dark)
+
+---
+
+## 📈 Current Focus
+
+- Cloud Computing
+- DevOps Practices
+- AWS Architecture
+- Enterprise Application Development
+- AI & Cloud Integration
+- Deployment & Infrastructure Management
+
+---
+
+## 📫 Connect With Me
+
+📧 **VaibhavAgarwal1127@gmail.com**
+
+💼 **LinkedIn:** https://www.linkedin.com/in/vaibhavag11/
+
+📍 **Greater Noida, India**
+
+⭐ Always open to collaboration, internships, and exciting technology opportunities.
