@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech in Cloud Computing at Bennett University (CGPA: 8.50)
+🎓 B.Tech in Cloud Computing at Bennett University (CGPA: 8.40)
 
 ☁️ AWS Certified Cloud Practitioner
 
 🤖 AWS Certified AI Practitioner
 
-💼 IT Intern at JK Lakshmi Cement Ltd.
+💼 web dev Intern at JK Lakshmi Cement Ltd, AI ML Intern at Hindustan Zic Ltd (Vedanta Group).
 
 🏆 Management Head – DevOps Club & Indian Blockchain Fraternity
 
