@@ -111,7 +111,7 @@
 
 ---
 
-## 📈 Current Focus
+## 📈 Current Focus.
 
 - Cloud Computing
 - DevOps Practices
