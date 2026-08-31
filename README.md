@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech in Cloud Computing at Bennett University (CGPA: 8.40)
+🎓 B.Tech in Cloud Computing at Bennett University (CGPA: 8.33)
 
 ☁️ AWS Certified Cloud Practitioner
 
