@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me....
+## 🚀 About Me..
 
 🎓 B.Tech in Cloud Computing at Bennett University (CGPA: 8.33)
 
