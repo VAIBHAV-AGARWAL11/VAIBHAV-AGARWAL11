@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Agarwal</h1>
+<h1 align="center">Hi , I'm Vaibhav Agarwal</h1>
 <h3 align="center">Cloud Computing Student | AWS Certified | DevOps & AI Enthusiast</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 B.Tech in Cloud Computing at Bennett University (CGPA: 8.33)
 
 AWS Certified Cloud Practitioner.
@@ -17,17 +17,17 @@ AWS Certified Solution Architect.
 AWS Certified CloudOps Engineer.
 
 
-💼 web dev Intern at JK Lakshmi Cement Ltd, AI ML Intern at Hindustan Zic Ltd (Vedanta Group).
+ web dev Intern at JK Lakshmi Cement Ltd, AI ML Intern at Hindustan Zic Ltd (Vedanta Group).
 
-🏆 Management Head – DevOps Club & Indian Blockchain Fraternity
+ Management Head – DevOps Club & Indian Blockchain Fraternity
 
-🤝 Placement Coordinator – Batch 89, Bennett University
+ Placement Coordinator – Batch 89, Bennett University
 
-🌱 Passionate about Cloud Computing, DevOps, AI, Cloud Infrastructure, and Enterprise Applications
+ Passionate about Cloud Computing, DevOps, AI, Cloud Infrastructure, and Enterprise Applications
 
 
 
-## 💼 Internship Experience
+##  Internship Experience
 
 ### JK Lakshmi Cement Ltd. – IT Department Intern
 
@@ -40,16 +40,16 @@ AWS Certified CloudOps Engineer.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🚗 Vehicle Requisition Management System
+###  Vehicle Requisition Management System
 
 - Developed a web-based application for vehicle request and approval management.
 - Automated internal transportation request workflows.
 - Improved tracking, transparency, and operational efficiency.
 - Implemented role-based access and request monitoring features.
 
-### ☁️ E-Learning & Online Examination System
+###  E-Learning & Online Examination System
 
 - Built a cloud-based learning and examination platform using AWS services.
 - Used Amazon S3 for secure storage.
@@ -60,7 +60,7 @@ AWS Certified CloudOps Engineer.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Cloud & DevOps
 
@@ -96,15 +96,17 @@ AWS Certified CloudOps Engineer.
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
-🏆 AWS Certified Cloud Practitioner
+AWS Certified Cloud Practitioner.
+AWS Certified AI Practitioner.
+AWS Certified Solution Architect.
+AWS Certified CloudOps Engineer.
 
-🏆 AWS Certified AI Practitioner
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAV-AGARWAL11&show_icons=true&theme=github_dark)
 
@@ -112,7 +114,7 @@ AWS Certified CloudOps Engineer.
 
 ---
 
-## 📈 Current Focus.
+##  Current Focus.
 
 - Cloud Computing
 - DevOps Practices
@@ -123,12 +125,12 @@ AWS Certified CloudOps Engineer.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-📧 **VaibhavAgarwal1127@gmail.com**
+ **VaibhavAgarwal1127@gmail.com**
 
-💼 **LinkedIn:** https://www.linkedin.com/in/vaibhavag11/
+ **LinkedIn:** https://www.linkedin.com/in/vaibhavag11/
 
-📍 **Greater Noida, India**
+ **Greater Noida, India**
 
-⭐ Always open to collaboration, internships, and exciting technology opportunities.
+ Always open to collaboration, internships, and exciting technology opportunities.
