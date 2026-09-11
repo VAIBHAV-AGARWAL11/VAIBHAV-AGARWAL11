@@ -9,12 +9,13 @@
 ---
 
 ## 🚀 About Me
+B.Tech in Cloud Computing at Bennett University (CGPA: 8.33)
 
-🎓 B.Tech in Cloud Computing at Bennett University (CGPA: 8.33)
+AWS Certified Cloud Practitioner.
+AWS Certified AI Practitioner.
+AWS Certified Solution Architect.
+AWS Certified CloudOps Engineer.
 
-☁️ AWS Certified Cloud Practitioner
-
-🤖 AWS Certified AI Practitioner
 
 💼 web dev Intern at JK Lakshmi Cement Ltd, AI ML Intern at Hindustan Zic Ltd (Vedanta Group).
 
